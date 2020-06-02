@@ -1,6 +1,5 @@
 # Transfer Learning
-
-![cover image](https://github.com/Dioriza/Klasifikasi-panorama-menggunakan-mobilenet_v2/blob/master/transfer%20learning.png)
+![cover image](https://github.com/Dioriza/Klasifikasi-panorama-menggunakan-mobilenet_v2/blob/master/transfer.png)
 Transfer learning adalah suatu teknik atau metode yang memanfaatkan model yang sudah dilatih terhadap suatu dataset untuk menyelesaikan permasalahan lain yang serupa dengan cara menggunakannya sebagai starting point, memodifikasi dan mengupdate parameternya sehingga sesuai dengan dataset yang baru.
 
 # Mobilenet_v2
@@ -9,6 +8,7 @@ MobileNets, merupakan salah satu arsitektur convolutional neural network (CNN) y
 Perbedaan mendasar antara arsitektur MobileNet dan arsitektur CNN pada umumnya adalah penggunaan lapisan atau layer konvolusi dengan ketebalan filter yang sesuai dengan ketebalan dari input image. MobileNet membagi konvolusi menjadi depthwise convolution dan pointwise convolution 
 
 # Dataset
+![cover image](https://github.com/Dioriza/Klasifikasi-panorama-menggunakan-mobilenet_v2/blob/master/transfer%20learning.png)
 dataset panorama didownload melalui Gdrive melalui Google Collaboratory.
 
 Buka di GCollab.
