@@ -9,12 +9,12 @@ Perbedaan mendasar antara arsitektur MobileNet dan arsitektur CNN pada umumnya a
 # Dataset
 dataset panorama didownload melalui Gdrive melalui Google Collaboratory.
 
+Buka di GCollab.
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Dioriza/Klasifikasi-panorama-menggunakan-mobilenet_v2/blob/master/Klasifikasi_panorama_menggunakan_transfer_learning_mobilenetv2.ipynb)
 
-sumber: https://idbigdata.com/official/seputar-big-data-edisi-32/
-
-        https://medium.com/nodeflux/mobilenet-deteksi-objek-pada-platform-mobile-bbbf3806e4b3
-
-        https://www.youtube.com/channel/UCszUEDUxCax7i5YsbAt0Tag
+sumber:     https://medium.com/nodeflux/mobilenet-deteksi-objek-pada-platform-mobile-bbbf3806e4b3
+            https://www.youtube.com/channel/UCszUEDUxCax7i5YsbAt0Tag
+            https://idbigdata.com/official/seputar-big-data-edisi-32/
 
 
 
