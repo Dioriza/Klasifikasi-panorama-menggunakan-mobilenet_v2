@@ -1,4 +1,6 @@
 # Transfer Learning
+
+![cover image](https://github.com/Dioriza/Klasifikasi-panorama-menggunakan-mobilenet_v2/blob/master/transfer%20learning.png)
 Transfer learning adalah suatu teknik atau metode yang memanfaatkan model yang sudah dilatih terhadap suatu dataset untuk menyelesaikan permasalahan lain yang serupa dengan cara menggunakannya sebagai starting point, memodifikasi dan mengupdate parameternya sehingga sesuai dengan dataset yang baru.
 
 # Mobilenet_v2
